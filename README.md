@@ -1,1 +1,1 @@
-# git_setup
+Repository for git setup, Mateus Queiroz
